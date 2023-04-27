@@ -10,7 +10,7 @@ https://mlive.newskeepsake.com/?image_id=328710&source=mlive&subscription_url=ht
 https://www.nelsonsystems.com/interview-recording/
 
 
-Video Overview: 
+Video Overview: https://youtu.be/_o2yNekw4cA
 
 Character sprites drawn by me
 
