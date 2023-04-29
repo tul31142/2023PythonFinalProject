@@ -1,5 +1,7 @@
 # 2023PythonFinalProject
 
+My project would not submit to Github, so I sent an email to Professor Rosen containing a Google Drive link where my project is located.
+
 Art Credits for Backgrounds used in the game:
 https://cloudnovel.net/fluffness/background/building
 
@@ -15,3 +17,4 @@ Video Overview: https://youtu.be/_o2yNekw4cA
 Character sprites drawn by me
 
 Story done by me
+
